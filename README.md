@@ -1,4 +1,4 @@
-![Karumi logo][karumilogo] KataTODOApiClient for Kotlin [![Build Status](https://travis-ci.org/Karumi/KataTODOApiClientKotlin.svg?branch=master)](https://travis-ci.org/Karumi/KataTODOApiClientKotlin)
+![Karumi logo][karumilogo] KataTODOApiClient for Kotlin [![Build Status](https://travis-ci.org/voghDev/KataTODOApiClientKotlin.svg?branch=master)](https://travis-ci.org/voghDev/KataTODOApiClientKotlin)
 ============================
 
 - We are here to practice integration testsing using HTTP stubbing. 
